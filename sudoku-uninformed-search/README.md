@@ -1,6 +1,4 @@
 # Solving a Sudoku puzzle using Depth-First Search, Breadth-First Search and DFS with Heuristics
-##### Estoque, Carlo Gabriel; Guarin, Jan Derrick; Villanueva, Raphael Ervin
-*Midterms & finals project for Introduction to Artificial Intelligence where we solve Sudoku using uninformed search strategies.*
 
 ## The Game of Sudoku
 Sudoku (Japanese: “Su” meaning number + “Doku” meaning single) is a combinatorial number puzzle popularized in magazines and newspapers a few decades back. A typical Sudoku puzzle involves a 9x9 square grid, with each cell of the grid containing another 9 cells. Each section of 9 cells form a block. In total, there are 81 cells in the game, 9 cells contained in 9 blocks. Some cells contain a given number from the set (1,2,...,9).  
@@ -46,7 +44,4 @@ In addition, there are other algorithms that can be used to solve a Sudoku puzzl
 3. Use the `DFS_solve`, `BFS_solve` or `HSolve` functions according to which method you want to use in solving a grid.
 4. You may check the code of each algorithm in their respective Python files.
 
-## References
-https://www.slideshare.net/FernandoJunior52/bdfsdfspaper?fbclid=IwAR07gT0SZ94nOHQILqatoMKqsqyXYuvpHbSrDIxv1iuwgnUuBgqBLzAm-gk
-https://norvig.com/sudoku.html
-https://github.com/tphanco/sample/blob/master/BDFS_Sudoku.py 
+
